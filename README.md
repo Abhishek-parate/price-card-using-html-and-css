@@ -1,6 +1,3 @@
-Here is the **Price Card Using HTML and CSS** project in Markdown format for your GitHub README file:
-
-```markdown
 # Price Card Using HTML and CSS
 
 Welcome to the **Price Card Using HTML and CSS** project by **Abhishek Parate** from **Bit Learners**! This project demonstrates how to create a modern and responsive pricing card layout using **HTML** and **CSS**. The card design is perfect for showcasing programming courses such as **React.js**, **Full Stack Development**, and **SEO**. This simple yet effective design is ideal for learners and developers who want to create beautiful pricing cards for their websites.
@@ -18,7 +15,7 @@ In this project, you will learn how to create a professional and modern pricing 
 
 ## Courses Available
 
-- **React.js Course**: Learn React.js from scratch with our beginner-friendly course. Ideal for anyone looking to dive into the world of web development.
+- **Reactjs Course**: Learn Reactjs from scratch with our beginner-friendly course. Ideal for anyone looking to dive into the world of web development.
 - **Full Stack Course**: Become a full-stack developer with our hands-on course. Includes backend and frontend technologies, deployment, and more.
 - **SEO Course**: Master SEO strategies with our comprehensive course. Learn how to optimize websites, improve search engine rankings, and drive organic traffic.
 
@@ -32,6 +29,7 @@ In this project, you will learn how to create a professional and modern pricing 
 ## Installation
 
 Follow these simple steps to get the project up and running on your local machine:
+
 
 1. Clone the repository:
    ```bash
